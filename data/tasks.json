@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Read a book",
+        "description": "",
+        "due_date": "2025-11-03 ",
+        "priority": "Wysoki",
+        "status": "Oczekuj\u0105ce"
+    },
+    {
+        "title": "Running",
+        "description": "",
+        "due_date": "2025-05-11",
+        "priority": "Niski",
+        "status": "Oczekuj\u0105ce"
+    },
+    {
+        "title": "Write a text",
+        "description": "",
+        "due_date": "Nothing to do",
+        "priority": "\u015aredni",
+        "status": "Oczekuj\u0105ce"
+    },
+    {
+        "title": "aaaa",
+        "description": "",
+        "due_date": "1111-02-04",
+        "priority": "\u015aredni",
+        "status": "Oczekuj\u0105ce"
+    }
+]
